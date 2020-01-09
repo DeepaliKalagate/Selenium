@@ -43,4 +43,22 @@ public class WebDriverCommands extends BaseTest
         // Printing length of the Page Source on console
         System.out.println("The length of source code of this page is : "+pageSourceLength);
     }
+
+    @Test
+    public void captureScreenshot() throws IOException
+    {
+        Date date = new Date();
+        String date1 = date.toString();
+        System.out.println(date1);
+        String date2 = date1.replaceAll(":", "-");
+        System.out.println(date2);
+        // Storing the Application Url in the String variable
+        String webURL = "https://www.google.com";
+        //Launch the Google WebSite
+        driver.get(webURL);
+        TakesScreenshot takesScreenshot = (TakesScreenshot) driver;
+        File srcFile = takesScreenshot.getScreenshotAs(OutputType.FILE);
+        File destFile = new File("/home/admin1/SeleniumDemo/src/test/resources/screenshot/Screenshots.png");
+        FileUtils.copyFile(srcFile, destFile);
+    }
 }
