@@ -61,4 +61,24 @@ public class WebDriverCommands extends BaseTest
         File destFile = new File("/home/admin1/SeleniumDemo/src/test/resources/screenshot/Screenshots.png");
         FileUtils.copyFile(srcFile, destFile);
     }
+
+    @Test
+    public void browserNavigation() throws InterruptedException
+    {
+        // Storing the Application Url in the String variable
+        String webURL="http://localhost8080/login.do";
+        //Launch the Facebook Site
+        driver.get(webURL);
+        // Open Gmail web site
+        driver.navigate().to("https://www.gmail.com");
+        Thread.sleep(2000);
+        //Go back to home page
+        driver.navigate().back();
+        Thread.sleep(2000);
+        //Go forword to Registration page
+        driver.navigate().forward();
+        Thread.sleep(2000);
+        //Refresh Browser
+        driver.navigate().refresh();
+    }
 }
