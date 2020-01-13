@@ -1,14 +1,13 @@
 package com.bridgelabz.selenium;
+import com.bridgelabz.seleniumdriver.BaseTest;
 import org.apache.commons.io.FileUtils;
-import org.openqa.selenium.By;
-import org.openqa.selenium.OutputType;
-import org.openqa.selenium.TakesScreenshot;
+import org.openqa.selenium.*;
 import org.testng.annotations.Test;
-
 import java.awt.*;
 import java.awt.event.KeyEvent;
 import java.io.File;
 import java.io.IOException;
+import java.text.SimpleDateFormat;
 import java.util.Date;
 
 public class BasicCommandsOfSelenium extends BaseTest
@@ -51,18 +50,14 @@ public class BasicCommandsOfSelenium extends BaseTest
     @Test
     public void savingScreenshots() throws IOException
     {
-        Date date = new Date();
-        String date1 = date.toString();
-        System.out.println(date1);
-        String date2 = date1.replaceAll(":", "-");
-        System.out.println(date2);
         // Storing the Application Url in the String variable
         String webURL = "https://www.google.com";
         //Launch the Google WebSite
         driver.get(webURL);
         TakesScreenshot takesScreenshot = (TakesScreenshot) driver;
         File sourceFile = takesScreenshot.getScreenshotAs(OutputType.FILE);
-        File destinationFile = new File("/home/admin1/SeleniumDemo/src/test/resources/screenshot/Screenshots.png");
+        String fileName =  new SimpleDateFormat("yyyy/MM/dd-hh:mm:ss'.png'").format(new Date());
+        File destinationFile = new File("/home/admin1/SeleniumDemo/src/test/resources/Screenshots.png"+fileName);
         FileUtils.copyFile(sourceFile, destinationFile);
     }
 
@@ -127,4 +122,21 @@ public class BasicCommandsOfSelenium extends BaseTest
         //Release Alt key from keyboard
         robot.keyRelease(KeyEvent.VK_ALT);
     }
+
+    @Test
+    public void testLocatorsForWebDriver_ByTagName()
+    {
+        // Storing the Application Url in the String variable
+        String webURL = "http://login.facebook.com";
+        //Launch the Facebook Site
+        driver.get(webURL);
+        //id locator for text box
+        driver.findElement(By.name("firstname")).sendKeys("Deepali");
+        driver.findElement(By.name("lastname")).sendKeys("Patil");
+        //id locator for next button
+        WebElement webElement = driver.findElement(By.tagName("button"));
+        webElement.click();
+    }
+
+
 }

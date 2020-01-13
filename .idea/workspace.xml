@@ -2,28 +2,36 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="657d9ea2-956e-4568-82c2-b0e5929e53f3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Driver/geckodriver" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/classAnalysis.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/taskHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/bridgelabz/selenium/WebDriverCommands.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/com.bridgelabz.selenium.WebDriverCommands.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/bridgelabz/selenium/BaseTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/bridgelabz/selenium/BasicCommandsOfSelenium.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/test/com/bridgelabz/selenium/BasicCommandsOfSelenium.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/com.bridgelabz.selenium.BasicCommandsOfSelenium.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/build/reports/tests/test/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/reports/tests/test/packages/com.bridgelabz.selenium.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/packages/com.bridgelabz.selenium.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/test-results/test/TEST-com.bridgelabz.selenium.WebDriverCommands.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/TEST-com.bridgelabz.selenium.BasicCommandsOfSelenium.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/output.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/output.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/output.bin.idx" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/output.bin.idx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/bridgelabz/selenium/WebDriverCommands.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/bridgelabz/selenium/BasicCommandsOfSelenium.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/bridgelabz/selenium/BaseTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/bridgelabz/seleniumdriver/BaseTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/bridgelabz/selenium/BasicCommandsOfSelenium.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/bridgelabz/selenium/BasicCommandsOfSelenium.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="178" />
   </component>
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
@@ -60,27 +68,31 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Driver" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.bridgelabz.seleniumdriver" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Driver" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/Driver" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$" />
-    </key>
   </component>
-  <component name="RunManager" selected="Gradle.BasicCommandsOfSelenium.handlingMouseAndKeyboardOperations">
-    <configuration name="BasicCommandsOfSelenium.handlingMouseAndKeyboardOperations" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+  <component name="RunManager" selected="Gradle.FacebookSeleniumTest.testFacebookRadioButtonForBirthDate">
+    <configuration name="FacebookSeleniumTest.testFacebookCheckBox" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="--tests &quot;com.bridgelabz.selenium.BasicCommandsOfSelenium.handlingMouseAndKeyboardOperations&quot;" />
+        <option name="scriptParameters" value="--tests &quot;com.bridgelabz.selenium.FacebookSeleniumTest.testFacebookCheckBox&quot;" />
         <option name="taskDescriptions">
           <list />
         </option>
@@ -95,12 +107,12 @@
       <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
       <method v="2" />
     </configuration>
-    <configuration name="Selenium_Demo.testMethods" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="FacebookSeleniumTest.testFacebookRadioButtonForBirthDate" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="--tests &quot;com.bridgelabz.selenium.Selenium_Demo.testMethods&quot;" />
+        <option name="scriptParameters" value="--tests &quot;com.bridgelabz.selenium.FacebookSeleniumTest.testFacebookRadioButtonForBirthDate&quot;" />
         <option name="taskDescriptions">
           <list />
         </option>
@@ -115,12 +127,12 @@
       <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
       <method v="2" />
     </configuration>
-    <configuration name="WebDriverCommands.browserNavigation" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="LoginThroughExcelFile.testLoginThroughExcelFile" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="--tests &quot;com.bridgelabz.selenium.WebDriverCommands.browserNavigation&quot;" />
+        <option name="scriptParameters" value="--tests &quot;com.bridgelabz.selenium.LoginThroughExcelFile.testLoginThroughExcelFile&quot;" />
         <option name="taskDescriptions">
           <list />
         </option>
@@ -135,12 +147,12 @@
       <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
       <method v="2" />
     </configuration>
-    <configuration name="WebDriverCommands.browserNavigationUsingFindElement" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="ReadDataFromExcelFile.testReadDataFromExcelFile_ShouldReturnDataFromFileSuccessfully" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="--tests &quot;com.bridgelabz.selenium.WebDriverCommands.browserNavigationUsingFindElement&quot;" />
+        <option name="scriptParameters" value="--tests &quot;com.bridgelabz.selenium.ReadDataFromExcelFile.testReadDataFromExcelFile_ShouldReturnDataFromFileSuccessfully&quot;" />
         <option name="taskDescriptions">
           <list />
         </option>
@@ -155,12 +167,12 @@
       <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
       <method v="2" />
     </configuration>
-    <configuration name="WebDriverCommands.getTitle" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="WriteDataInExcelFile.testWriteDataInExcelFile_ShouldReturnSuccessfullyMessage" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="--tests &quot;com.bridgelabz.selenium.WebDriverCommands.getTitle&quot;" />
+        <option name="scriptParameters" value="--tests &quot;com.bridgelabz.selenium.WriteDataInExcelFile.testWriteDataInExcelFile_ShouldReturnSuccessfullyMessage&quot;" />
         <option name="taskDescriptions">
           <list />
         </option>
@@ -177,11 +189,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Gradle.BasicCommandsOfSelenium.handlingMouseAndKeyboardOperations" />
-        <item itemvalue="Gradle.WebDriverCommands.getTitle" />
-        <item itemvalue="Gradle.WebDriverCommands.browserNavigationUsingFindElement" />
-        <item itemvalue="Gradle.WebDriverCommands.browserNavigation" />
-        <item itemvalue="Gradle.Selenium_Demo.testMethods" />
+        <item itemvalue="Gradle.FacebookSeleniumTest.testFacebookRadioButtonForBirthDate" />
+        <item itemvalue="Gradle.FacebookSeleniumTest.testFacebookCheckBox" />
+        <item itemvalue="Gradle.LoginThroughExcelFile.testLoginThroughExcelFile" />
+        <item itemvalue="Gradle.WriteDataInExcelFile.testWriteDataInExcelFile_ShouldReturnSuccessfullyMessage" />
+        <item itemvalue="Gradle.ReadDataFromExcelFile.testReadDataFromExcelFile_ShouldReturnDataFromFileSuccessfully" />
       </list>
     </recent_temporary>
   </component>
@@ -215,45 +227,60 @@
       <screen x="67" y="27" width="1299" height="741" />
     </state>
     <state x="311" y="58" width="847" height="677" key="#Project_Structure/67.27.1299.741@67.27.1299.741" timestamp="1578482608774" />
-    <state width="1253" height="169" key="GridCell.Tab.0.bottom" timestamp="1578567898168">
+    <state x="408" y="201" width="606" height="390" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1578736307743">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1253" height="169" key="GridCell.Tab.0.bottom/67.27.1299.741@67.27.1299.741" timestamp="1578567898168" />
-    <state width="1253" height="169" key="GridCell.Tab.0.center" timestamp="1578567898168">
+    <state x="408" y="201" width="606" height="390" key="#com.intellij.fileTypes.FileTypeChooser/67.27.1299.741@67.27.1299.741" timestamp="1578736307743" />
+    <state x="449" y="180" width="524" height="444" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1578636189627">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1253" height="169" key="GridCell.Tab.0.center/67.27.1299.741@67.27.1299.741" timestamp="1578567898168" />
-    <state width="1253" height="169" key="GridCell.Tab.0.left" timestamp="1578567898168">
+    <state x="449" y="180" width="524" height="444" key="#com.intellij.ide.util.PackageChooserDialog/67.27.1299.741@67.27.1299.741" timestamp="1578636189627" />
+    <state x="469" y="257" width="598" height="290" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1578636201395">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1253" height="169" key="GridCell.Tab.0.left/67.27.1299.741@67.27.1299.741" timestamp="1578567898168" />
-    <state width="1253" height="169" key="GridCell.Tab.0.right" timestamp="1578567898168">
+    <state x="469" y="257" width="598" height="290" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/67.27.1299.741@67.27.1299.741" timestamp="1578636201395" />
+    <state width="1253" height="121" key="GridCell.Tab.0.bottom" timestamp="1578907378772">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1253" height="169" key="GridCell.Tab.0.right/67.27.1299.741@67.27.1299.741" timestamp="1578567898168" />
-    <state width="1253" height="219" key="GridCell.Tab.1.bottom" timestamp="1578482284128">
+    <state width="1253" height="121" key="GridCell.Tab.0.bottom/67.27.1299.741@67.27.1299.741" timestamp="1578907378772" />
+    <state width="1253" height="121" key="GridCell.Tab.0.center" timestamp="1578907378772">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1253" height="219" key="GridCell.Tab.1.bottom/67.27.1299.741@67.27.1299.741" timestamp="1578482284128" />
-    <state width="1253" height="219" key="GridCell.Tab.1.center" timestamp="1578482284128">
+    <state width="1253" height="121" key="GridCell.Tab.0.center/67.27.1299.741@67.27.1299.741" timestamp="1578907378772" />
+    <state width="1253" height="121" key="GridCell.Tab.0.left" timestamp="1578907378771">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1253" height="219" key="GridCell.Tab.1.center/67.27.1299.741@67.27.1299.741" timestamp="1578482284128" />
-    <state width="1253" height="219" key="GridCell.Tab.1.left" timestamp="1578482284128">
+    <state width="1253" height="121" key="GridCell.Tab.0.left/67.27.1299.741@67.27.1299.741" timestamp="1578907378771" />
+    <state width="1253" height="121" key="GridCell.Tab.0.right" timestamp="1578907378772">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1253" height="219" key="GridCell.Tab.1.left/67.27.1299.741@67.27.1299.741" timestamp="1578482284128" />
-    <state width="1253" height="219" key="GridCell.Tab.1.right" timestamp="1578482284128">
+    <state width="1253" height="121" key="GridCell.Tab.0.right/67.27.1299.741@67.27.1299.741" timestamp="1578907378772" />
+    <state width="1253" height="115" key="GridCell.Tab.1.bottom" timestamp="1578746645434">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1253" height="219" key="GridCell.Tab.1.right/67.27.1299.741@67.27.1299.741" timestamp="1578482284128" />
-    <state x="205" y="31" key="SettingsEditor" timestamp="1578564849889">
+    <state width="1253" height="115" key="GridCell.Tab.1.bottom/67.27.1299.741@67.27.1299.741" timestamp="1578746645434" />
+    <state width="1253" height="115" key="GridCell.Tab.1.center" timestamp="1578746645434">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state x="205" y="31" key="SettingsEditor/67.27.1299.741@67.27.1299.741" timestamp="1578564849889" />
-    <state x="372" y="224" key="com.intellij.ide.util.TipDialog" timestamp="1578541373284">
+    <state width="1253" height="115" key="GridCell.Tab.1.center/67.27.1299.741@67.27.1299.741" timestamp="1578746645434" />
+    <state width="1253" height="115" key="GridCell.Tab.1.left" timestamp="1578746645434">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state x="372" y="224" key="com.intellij.ide.util.TipDialog/67.27.1299.741@67.27.1299.741" timestamp="1578541373284" />
+    <state width="1253" height="115" key="GridCell.Tab.1.left/67.27.1299.741@67.27.1299.741" timestamp="1578746645434" />
+    <state width="1253" height="115" key="GridCell.Tab.1.right" timestamp="1578746645434">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1253" height="115" key="GridCell.Tab.1.right/67.27.1299.741@67.27.1299.741" timestamp="1578746645434" />
+    <state x="205" y="31" key="SettingsEditor" timestamp="1578641355217">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="205" y="31" key="SettingsEditor/67.27.1299.741@67.27.1299.741" timestamp="1578641355217" />
+    <state x="372" y="224" key="com.intellij.ide.util.TipDialog" timestamp="1578889037785">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="372" y="224" key="com.intellij.ide.util.TipDialog/67.27.1299.741@67.27.1299.741" timestamp="1578889037785" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/SeleniumDemo$BasicCommandsOfSelenium_testLocatorsForWebDriver_ByTagName.ic" NAME="BasicCommandsOfSelenium.testLocatorsForWebDriver_ByTagName Coverage Results" MODIFIED="1578891292768" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
 </project>
