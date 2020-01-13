@@ -1,30 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="657d9ea2-956e-4568-82c2-b0e5929e53f3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Driver/geckodriver" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/classAnalysis.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/taskHistory.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/bridgelabz/selenium/BaseTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/bridgelabz/selenium/BasicCommandsOfSelenium.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/test/com/bridgelabz/selenium/BasicCommandsOfSelenium.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/com.bridgelabz.selenium.BasicCommandsOfSelenium.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/packages/com.bridgelabz.selenium.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/packages/com.bridgelabz.selenium.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/test-results/test/TEST-com.bridgelabz.selenium.BasicCommandsOfSelenium.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/output.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/output.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/bridgelabz/selenium/BaseTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/bridgelabz/seleniumdriver/BaseTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/bridgelabz/selenium/BasicCommandsOfSelenium.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/bridgelabz/selenium/BasicCommandsOfSelenium.java" afterDir="false" />
-    </list>
+    <list default="true" id="657d9ea2-956e-4568-82c2-b0e5929e53f3" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -239,22 +216,22 @@
       <screen x="67" y="27" width="1299" height="741" />
     </state>
     <state x="469" y="257" width="598" height="290" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/67.27.1299.741@67.27.1299.741" timestamp="1578636201395" />
-    <state width="1253" height="121" key="GridCell.Tab.0.bottom" timestamp="1578907378772">
+    <state width="1253" height="121" key="GridCell.Tab.0.bottom" timestamp="1578907658073">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1253" height="121" key="GridCell.Tab.0.bottom/67.27.1299.741@67.27.1299.741" timestamp="1578907378772" />
-    <state width="1253" height="121" key="GridCell.Tab.0.center" timestamp="1578907378772">
+    <state width="1253" height="121" key="GridCell.Tab.0.bottom/67.27.1299.741@67.27.1299.741" timestamp="1578907658073" />
+    <state width="1253" height="121" key="GridCell.Tab.0.center" timestamp="1578907658073">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1253" height="121" key="GridCell.Tab.0.center/67.27.1299.741@67.27.1299.741" timestamp="1578907378772" />
-    <state width="1253" height="121" key="GridCell.Tab.0.left" timestamp="1578907378771">
+    <state width="1253" height="121" key="GridCell.Tab.0.center/67.27.1299.741@67.27.1299.741" timestamp="1578907658073" />
+    <state width="1253" height="121" key="GridCell.Tab.0.left" timestamp="1578907658072">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1253" height="121" key="GridCell.Tab.0.left/67.27.1299.741@67.27.1299.741" timestamp="1578907378771" />
-    <state width="1253" height="121" key="GridCell.Tab.0.right" timestamp="1578907378772">
+    <state width="1253" height="121" key="GridCell.Tab.0.left/67.27.1299.741@67.27.1299.741" timestamp="1578907658072" />
+    <state width="1253" height="121" key="GridCell.Tab.0.right" timestamp="1578907658073">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1253" height="121" key="GridCell.Tab.0.right/67.27.1299.741@67.27.1299.741" timestamp="1578907378772" />
+    <state width="1253" height="121" key="GridCell.Tab.0.right/67.27.1299.741@67.27.1299.741" timestamp="1578907658073" />
     <state width="1253" height="115" key="GridCell.Tab.1.bottom" timestamp="1578746645434">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
@@ -275,10 +252,10 @@
       <screen x="67" y="27" width="1299" height="741" />
     </state>
     <state x="205" y="31" key="SettingsEditor/67.27.1299.741@67.27.1299.741" timestamp="1578641355217" />
-    <state x="372" y="224" key="com.intellij.ide.util.TipDialog" timestamp="1578889037785">
+    <state x="372" y="224" key="com.intellij.ide.util.TipDialog" timestamp="1578907828554">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state x="372" y="224" key="com.intellij.ide.util.TipDialog/67.27.1299.741@67.27.1299.741" timestamp="1578889037785" />
+    <state x="372" y="224" key="com.intellij.ide.util.TipDialog/67.27.1299.741@67.27.1299.741" timestamp="1578907828554" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/SeleniumDemo$BasicCommandsOfSelenium_testLocatorsForWebDriver_ByTagName.ic" NAME="BasicCommandsOfSelenium.testLocatorsForWebDriver_ByTagName Coverage Results" MODIFIED="1578891292768" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
